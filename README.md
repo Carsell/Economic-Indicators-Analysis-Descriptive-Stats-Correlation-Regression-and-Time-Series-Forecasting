@@ -18,5 +18,5 @@ This repository contains R code for analyzing economic indicators, including tra
 
 ## Dependencies
 
-- R (version X.X.X)
+- R
 - R packages: tidyverse, psych, corrplot, lmtest, forecast, zoo, dplyr, moments, e1071, ggplot2, robustbase, colorspace, reshape2, car.
